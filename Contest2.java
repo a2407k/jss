@@ -1,4 +1,4 @@
-public class SpamRemover {
+public class Contest2 {
 
 	public static void removeSpam(String folder) {
 
