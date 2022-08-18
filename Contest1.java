@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class StringSplit {
+public class Contest1 {
 
 	public static List<String> splitString(String str, char esc) {
 		List<String> result = new ArrayList<String>();
